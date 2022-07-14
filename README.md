@@ -7,6 +7,12 @@ T.B. Lee, S. Han and Y.S. Heo, "Continuous Facial Motion Deblurring," in IEEE Ac
 
 ![CFMDGAN](/images/overview_cfmd_gan.png)
 
+| Blurry Image  | Ground-Truth  | Ours 7 Frames | Ours 51 Frames |
+| ------------- | ------------- | ------------- | ------------- |
+| ![](/images/009_blur007_000044/input.png)  | ![](/images/009_blur007_000044/gt.gif) | ![](/images/009_blur007_000044/cfmd_07.gif) | ![](/images/009_blur007_000044/cfmd_51.gif) |
+
+
+
 <p float="left">
   <img src="/images/009_blur007_000044/input.png" width="100" />
   <img src="/images/009_blur007_000044/gt.gif" width="100" />
