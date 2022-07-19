@@ -4,6 +4,7 @@ This repository is the Official Pytorch Implementation of [Continuous Facial Mot
 ```
 T.B. Lee, S. Han and Y.S. Heo, "Continuous Facial Motion Deblurring," in IEEE Access, 2022.
 ```
+[arxiv](https://arxiv.org/abs/2207.06626?context=cs)
 
 ![CFMDGAN](/images/overview_cfmd_gan.png)
 
@@ -28,3 +29,19 @@ T.B. Lee, S. Han and Y.S. Heo, "Continuous Facial Motion Deblurring," in IEEE Ac
 
 ## 2. Training
 ### 1) Preapre training data
++ see prepareDataset
+
+### 2) Training
++ Specify "configs.py" in 'scripts'.
++ Run this command in 'scripts':
+```train
+python train.py
+```
+
+## 3. Test
++ Down load pre-trained models in [Google Drive](https://drive.google.com/drive/u/1/folders/0AOmqUdu1rngrUk9PVA)
++ Specify the paths in 'inference.py' in 'scripts'.
++ Run this command in 'scripts':
+```inference
+python inference.py
+```

@@ -5,7 +5,7 @@
 ## 2) Extract sharp frames from videos
 
 ## 3) Run genBlurDataset.py
-+ Specify
++ Specify several paths you want to set in "genBlurDataset.py".
 ```genBlurDataset.py
 line 10 to 13: 
     - origin_dir : 'your/path/to/300VW Dataset'

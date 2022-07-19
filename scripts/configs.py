@@ -51,7 +51,7 @@ def GET_CONFIGS():
         'adversarial_loss': 0.01,
         'auxilirary_regresssion_loss': 0.05,
     }    
-    cfg.ARCFACE_WEIGHT = 'you/path/to/arcface_resnet18.pth'
+    
     #=======================
     # 4. Other Settings & Hyperparams 
     #=======================    
