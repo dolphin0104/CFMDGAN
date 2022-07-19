@@ -39,7 +39,7 @@ python train.py
 ```
 
 ## 3. Test
-+ Down load pre-trained models in [Google Drive](https://drive.google.com/drive/u/1/folders/0AOmqUdu1rngrUk9PVA)
++ Download pre-trained models in [Google Drive](https://drive.google.com/drive/u/1/folders/0AOmqUdu1rngrUk9PVA)
 + Specify the paths in 'inference.py' in 'scripts'.
 + Run this command in 'scripts':
 ```inference
