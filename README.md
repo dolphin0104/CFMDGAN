@@ -1,10 +1,10 @@
 # Continuous Facial Motion Deblurring
 
-This repository is the Official Pytorch Implementation of [Continuous Facial Motion Deblurring].
+This repository is the Official Pytorch Implementation of "Continuous Facial Motion Deblurring"[arxiv](https://arxiv.org/abs/2207.06626?context=cs)
 ```
-T.B. Lee, S. Han and Y.S. Heo, "Continuous Facial Motion Deblurring," in IEEE Access, 2022.
+T.B. Lee, S. Han and Y.S. Heo, "Continuous Facial Motion Deblurring", in IEEE Access, 2022.
 ```
-[arxiv](https://arxiv.org/abs/2207.06626?context=cs)
+
 
 ![CFMDGAN](/images/overview_cfmd_gan.png)
 
